@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KJWesthoff/295capstone-frontend/static/css/main.72893ee0.css",
+    "main.js": "/KJWesthoff/295capstone-frontend/static/js/main.860c8ec8.js",
+    "static/js/453.670e15c7.chunk.js": "/KJWesthoff/295capstone-frontend/static/js/453.670e15c7.chunk.js",
+    "index.html": "/KJWesthoff/295capstone-frontend/index.html",
+    "main.72893ee0.css.map": "/KJWesthoff/295capstone-frontend/static/css/main.72893ee0.css.map",
+    "main.860c8ec8.js.map": "/KJWesthoff/295capstone-frontend/static/js/main.860c8ec8.js.map",
+    "453.670e15c7.chunk.js.map": "/KJWesthoff/295capstone-frontend/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72893ee0.css",
+    "static/js/main.860c8ec8.js"
+  ]
+}
